@@ -21,7 +21,7 @@
 
 ## 使用教程
 1. 克隆仓库：`git clone https://github.com/m529317/bibliometrics-project.git`
-2. 安装依赖：`pip install -r requirements.txt`（如有）
+2. 安装依赖：`pip install -r requirements.txt`
 3. 各成员将成果放入对应文件夹，并提交Pull Request
 
 ## 协作规范
