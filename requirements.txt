@@ -1,0 +1,5 @@
+pandas>=2.0
+rispy>=0.7
+matplotlib>=3.7
+seaborn>=0.12
+networkx>=3.0
